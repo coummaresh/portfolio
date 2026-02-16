@@ -201,7 +201,7 @@ a:hover {
 }
 
 .highlight {
-    color: var(--primary-color);
+    color: var(--bg-light);
     font-weight: var(--font-weight-bold);
 }
 
